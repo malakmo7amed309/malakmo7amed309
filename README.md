@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Malak Mohamed, Junior Frontend Developer" width="100%" />
+  <img src="assets/banner-m.png" alt="Malak Mohamed, Junior Frontend Developer" width="640" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="mailto:malakmo7amed309@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 </p>
 
-<img src="assets/h-stack.png" alt="Tech stack" width="100%" />
+<p align="center"><img src="assets/h-stack-m.png" alt="Tech stack" width="640" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
@@ -25,37 +25,34 @@
   <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
 </p>
 
-<img src="assets/h-projects.png" alt="Featured projects" width="100%" />
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://malakmo7amed309.github.io/pulse/"><img src="assets/card-pulse.png" alt="Pulse, SaaS analytics dashboard" /></a><br/>
-      <a href="https://malakmo7amed309.github.io/pulse/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/pulse">Code</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://malakmo7amed309.github.io/task-tracker/"><img src="assets/card-taskflow.png" alt="TaskFlow, full-stack task tracker" /></a><br/>
-      <a href="https://malakmo7amed309.github.io/task-tracker/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/task-tracker">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://malakmo7amed309.github.io/egypt-trains/"><img src="assets/card-trains.png" alt="Egypt Trains Live, departures board" /></a><br/>
-      <a href="https://malakmo7amed309.github.io/egypt-trains/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/egypt-trains">Code</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://malakmo7amed309.github.io/wasfa/"><img src="assets/card-wasfa.png" alt="Wasfa, linked Markdown notes" /></a><br/>
-      <a href="https://malakmo7amed309.github.io/wasfa/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/wasfa">Code</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">More projects on my <a href="https://malakmo7amed309.github.io">portfolio</a>.</p>
-
-<img src="assets/h-contact.png" alt="Get in touch" width="100%" />
+<p align="center"><img src="assets/h-projects-m.png" alt="Featured projects" width="640" /></p>
 
 <p align="center">
-  <a href="mailto:malakmo7amed309@gmail.com">malakmo7amed309@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://malakmo7amed309.github.io/pulse/"><img src="assets/card-pulse-m.png" alt="Pulse, SaaS analytics dashboard" width="440" /></a><br/>
+  <sub><a href="https://malakmo7amed309.github.io/pulse/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/pulse">Code</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://malakmo7amed309.github.io/task-tracker/"><img src="assets/card-taskflow-m.png" alt="TaskFlow, full-stack task tracker" width="440" /></a><br/>
+  <sub><a href="https://malakmo7amed309.github.io/task-tracker/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/task-tracker">Code</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://malakmo7amed309.github.io/egypt-trains/"><img src="assets/card-trains-m.png" alt="Egypt Trains Live, departures board" width="440" /></a><br/>
+  <sub><a href="https://malakmo7amed309.github.io/egypt-trains/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/egypt-trains">Code</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://malakmo7amed309.github.io/wasfa/"><img src="assets/card-wasfa-m.png" alt="Wasfa, linked Markdown notes" width="440" /></a><br/>
+  <sub><a href="https://malakmo7amed309.github.io/wasfa/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/wasfa">Code</a></sub>
+</p>
+
+<p align="center"><sub>More projects on my <a href="https://malakmo7amed309.github.io">portfolio</a></sub></p>
+
+<p align="center"><img src="assets/h-contact-m.png" alt="Get in touch" width="640" /></p>
+
+<p align="center">
+  <sub><a href="mailto:malakmo7amed309@gmail.com">malakmo7amed309@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/malak-mohamed-3b8533374">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://malakmo7amed309.github.io">Portfolio</a>
+  <a href="https://malakmo7amed309.github.io">Portfolio</a></sub>
 </p>
