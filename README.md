@@ -1,45 +1,61 @@
-# Hi, I'm Malak 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Malak Mohamed, Junior Frontend Developer" width="100%" />
+</p>
 
-Frontend developer and fresh Computer Science graduate from Egypt. I build responsive, realtime web apps with React, and I care about the details: clean UI, honest loading states, and code a recruiter can actually read.
+<p align="center">
+  Junior frontend developer from Fayoum, Egypt. I build responsive, accessible web apps with React and TypeScript.<br/>
+  Looking for my first junior frontend role, remote-friendly.
+</p>
 
-**Open to junior frontend roles, remote or on-site.**
+<p align="center">
+  <a href="https://malakmo7amed309.github.io"><img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/malak-mohamed-3b8533374"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:malakmo7amed309@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+</p>
 
-- 🌍 Portfolio: [malakmo7amed309.github.io](https://malakmo7amed309.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/malak-mohamed-3b8533374](https://www.linkedin.com/in/malak-mohamed-3b8533374)
+<img src="assets/h-stack.png" alt="Tech stack" width="100%" />
 
-## Featured projects
+<p align="center">
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vite-161b22?style=for-the-badge&logo=vite&logoColor=a78bfa" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+</p>
 
-### 💼 [Job Hunt Board](https://malakmo7amed309.github.io/job-hunt-board/) · [Code](https://github.com/malakmo7amed309/job-hunt-board)
+<img src="assets/h-projects.png" alt="Featured projects" width="100%" />
 
-A kanban board for the job hunt. Real drag and drop between Applied, Interview, Offer and Rejected (keyboard accessible), live pipeline stats with response rate, instant search, and localStorage persistence.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://malakmo7amed309.github.io/pulse/"><img src="assets/card-pulse.png" alt="Pulse, SaaS analytics dashboard" /></a><br/>
+      <a href="https://malakmo7amed309.github.io/pulse/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/pulse">Code</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://malakmo7amed309.github.io/task-tracker/"><img src="assets/card-taskflow.png" alt="TaskFlow, full-stack task tracker" /></a><br/>
+      <a href="https://malakmo7amed309.github.io/task-tracker/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/task-tracker">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://malakmo7amed309.github.io/egypt-trains/"><img src="assets/card-trains.png" alt="Egypt Trains Live, departures board" /></a><br/>
+      <a href="https://malakmo7amed309.github.io/egypt-trains/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/egypt-trains">Code</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://malakmo7amed309.github.io/wasfa/"><img src="assets/card-wasfa.png" alt="Wasfa, linked Markdown notes" /></a><br/>
+      <a href="https://malakmo7amed309.github.io/wasfa/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/malakmo7amed309/wasfa">Code</a>
+    </td>
+  </tr>
+</table>
 
-`React` `Tailwind CSS` `@dnd-kit` `Vite`
+<p align="center">More projects on my <a href="https://malakmo7amed309.github.io">portfolio</a>.</p>
 
-### ☕ [Study Rooms](https://malakmo7amed309.github.io/study-rooms/) · [Code](https://github.com/malakmo7amed309/study-rooms)
+<img src="assets/h-contact.png" alt="Get in touch" width="100%" />
 
-Shared Pomodoro rooms synced in real time. Create a room, send the link, and everyone studies on the same timer: anyone can start, pause or switch, with live presence and emoji energy. No sign-up, no database.
-
-`React` `Tailwind CSS` `Supabase Realtime` `Vite`
-
-### ✅ [TaskFlow](https://malakmo7amed309.github.io/task-tracker/) · [Code](https://github.com/malakmo7amed309/task-tracker)
-
-Full-stack task tracker with authentication, Postgres Row Level Security and an optimistic UI that never makes you wait.
-
-`React` `Supabase` `PostgreSQL`
-
-### 📝 [LinkPosts](https://malakmo7amed309.github.io/LinkPosts/) · [Code](https://github.com/malakmo7amed309/LinkPosts)
-
-A social feed web app: registration, login, a protected post feed, post details and comments.
-
-`React` `Vite` `Tailwind CSS`
-
-## Tech stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <a href="mailto:malakmo7amed309@gmail.com">malakmo7amed309@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/malak-mohamed-3b8533374">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://malakmo7amed309.github.io">Portfolio</a>
+</p>
