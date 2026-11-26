@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner-m.png" alt="Malak Mohamed, Junior Frontend Developer" width="640" />
+  <img src="assets/banner-m.png" alt="Malak Mohamed, Frontend Developer" width="640" />
 </p>
 
 <p align="center">
-  Junior frontend developer from Fayoum, Egypt. I build responsive, accessible web apps with React and TypeScript.<br/>
-  Looking for my first junior frontend role, remote-friendly.
+  Frontend developer from Fayoum, Egypt. I build responsive, accessible web apps with React and TypeScript.<br/>
+  Looking for my first frontend role, remote-friendly.
 </p>
 
 <p align="center">
